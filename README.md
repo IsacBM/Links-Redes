@@ -18,3 +18,4 @@ Construção de site para aperfeiçoamento e aprendizagem!
 - [x]  Personalização com Icones.<br>
 - [ ]  Personalização de "Fundo".  `[Em Andamento]` <br>
 - [ ]  Adição do Tema Claro/Escuro.  `[Em Andamento]` <br>
+- [x]  Efeito(s). <br>
